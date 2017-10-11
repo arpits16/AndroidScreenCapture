@@ -7,4 +7,9 @@ and then converts it in form of image .It then stores the image into your device
 
 This scenario may be used in several scenarios such as "Generating the Order for the Customer and Saving the Receipt"..
 
+Following is the screen that i saved as the JPG image.
+
+![Saved Layout as Screenshot](https://github.com/arpits16/AndroidScreenCapture/blob/master/MyScreen.jpg)
+
+
 Enjoy :)
